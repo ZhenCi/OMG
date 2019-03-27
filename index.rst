@@ -11,12 +11,10 @@ Software Requirements Specification for OMG Version 0.1
     :numbered:
 
     introduction
-    functional-requirements
+    Scatter plot analysis  
     non-functional-requirements
     constraints
-    change-cases
-    milestones
-    appendices
+    update
     references
 
 
